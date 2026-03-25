@@ -3,6 +3,7 @@
 Official Python client for the [GramStack - Fragment Rest API](https://gramstack.dev)
 
 Provides both **synchronous** and **asynchronous** clients with full type annotations, automatic retries, and Pydantic v2 models.
+Requires Python 3.9+
 
 ## Installation
 
@@ -203,8 +204,8 @@ Retry uses exponential backoff with jitter. Configure with `max_retries=` (defau
 
 ```bash
 # Clone and install
-git clone https://github.com/fragment/fragment-python.git
-cd fragment-python
+git clone https://github.com/GramStackDev/fragment-api-python-sdk.git
+cd fragment-api-python-sdk
 uv sync --extra dev
 
 # Run tests
