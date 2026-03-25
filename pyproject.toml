@@ -29,9 +29,9 @@ dependencies = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/fragment/fragment-python"
-Repository = "https://github.com/fragment/fragment-python"
-Issues = "https://github.com/fragment/fragment-python/issues"
+Homepage = "https://github.com/GramStackDev/fragment-api-python-sdk"
+Repository = "https://github.com/GramStackDev/fragment-api-python-sdk"
+Issues = "https://github.com/GramStackDev/fragment-api-python-sdk/issues"
 
 [project.optional-dependencies]
 dev = [
