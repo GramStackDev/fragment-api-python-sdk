@@ -1,6 +1,6 @@
 # Fragment Python SDK
 
-Official Python client for the [Fragment (GramStack)](https://gramstack.io) REST API.
+Official Python client for the [Fragment (GramStack)](https://gramstack.dev) REST API.
 
 Provides both **synchronous** and **asynchronous** clients with full type annotations, automatic retries, and Pydantic v2 models.
 
