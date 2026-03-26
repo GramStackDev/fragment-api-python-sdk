@@ -9,10 +9,10 @@ Requires Python 3.9+
 
 ```bash
 # pip
-pip install fragment-sdk
+pip install fragment-api-python-sdk
 
 # uv
-uv add fragment-sdk
+uv add fragment-api-python-sdk
 ```
 
 ## Quick Start
